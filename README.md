@@ -11,7 +11,7 @@ Notes from the group can be found in the following google document:
 
 https://docs.google.com/document/d/1SOja7k0mXwvOB2tQD3ZW3O38Qv4NwfA21zdMQ9JlUQc/edit
 
-Like any good idea we are probably not the first to think of this idea. A quick search of gitlab produced the following, possibly related, repositories:
+Like any good idea we are probably not the first to have these thoughts. A quick search of gitlab produced the following, possibly related, repositories:
 
 * https://github.com/DTrejo/node-authors
 * https://github.com/mpapis/contributors_stats
