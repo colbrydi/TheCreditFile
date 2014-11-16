@@ -13,11 +13,11 @@ https://docs.google.com/document/d/1SOja7k0mXwvOB2tQD3ZW3O38Qv4NwfA21zdMQ9JlUQc/
 
 Like any good idea we are probably not the first to think of this idea. A quick search of gitlab produced the following, possibly related, repositories:
 
-https://github.com/DTrejo/node-authors
-https://github.com/mpapis/contributors_stats
-https://github.com/xingrz/node-contributors
-https://github.com/superlukas/grunt-git-contributors
-https://github.com/mgechev/contributors-list
-https://github.com/shakyShane/gulp-contribs
-https://github.com/wpbrasil/github-contributors-list
-https://github.com/RsrchBoy/Dist-Zilla-Plugin-ContributorsFromGit
+* https://github.com/DTrejo/node-authors
+* https://github.com/mpapis/contributors_stats
+* https://github.com/xingrz/node-contributors
+* https://github.com/superlukas/grunt-git-contributors
+* https://github.com/mgechev/contributors-list
+* https://github.com/shakyShane/gulp-contribs
+* https://github.com/wpbrasil/github-contributors-list
+* https://github.com/RsrchBoy/Dist-Zilla-Plugin-ContributorsFromGit
